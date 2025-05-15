@@ -1,0 +1,1 @@
+This project focuses on training a supervised machine learning model to classify the appropriate action a mobile robot should take based on ultrasonic sensor readings. The dataset was collected from the SCITOS G5 robot while it was performing wall-following behavior in a clockwise direction.
